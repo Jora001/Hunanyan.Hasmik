@@ -72,7 +72,7 @@ const EducationSection = () => {
       period: "Jan 2021 – Mar 2021",
       description:
         "Completed a mid-level Web Development course focused on HTML5, CSS3, and JavaScript, gaining practical experience in building responsive and interactive websites. Awarded an official professional certificate upon completion.",
-      image: "/assets/bdg.jpg",
+      image: "/assets/i.jpg",
       achievements: [
         "Web Development",
         "JavaSript",
